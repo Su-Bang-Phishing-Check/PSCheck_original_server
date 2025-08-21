@@ -1,6 +1,5 @@
 # [피싱체크](https://피싱체크.com)
-
- <img src="/docs/logo.png" width="300" height="300"/>
+ <img src="/Logos/icon4.png" width="300" height="300"/>
  
 ----------------------------
 
